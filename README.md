@@ -1,1 +1,1 @@
-# Latihan_Kuis
+# Latihan_Kuis Algo
